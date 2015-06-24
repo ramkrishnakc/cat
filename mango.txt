@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 inside mango
+=======
+changed
+>>>>>>> a
